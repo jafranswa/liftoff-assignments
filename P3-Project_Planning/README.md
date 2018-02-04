@@ -7,6 +7,8 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+* ![MVP Views- home, member detail, class/event detail](https://github.com/jafranswa/liftoff-assignments/blob/master/P3-Project_Planning/IMG_1267.jpg)
+Format: ![Alt Text](url)
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
